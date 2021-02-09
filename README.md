@@ -8,4 +8,4 @@ an example of generating a pie chart for IdPs with and
 without an errorURL in several federations.  
 
 
-https://mybinder.org/v2/gh/sbroddy/JupyterMD/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbroddy/JupyterMD/HEAD)
