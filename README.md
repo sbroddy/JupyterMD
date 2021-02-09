@@ -6,3 +6,6 @@ to do something useful with SAML XML Metadata.  Since
 Baseline expectations v2 is underway in InCommon, I created
 an example of generating a pie chart for IdPs with and
 without an errorURL in several federations.  
+
+
+https://mybinder.org/v2/gh/sbroddy/JupyterMD/HEAD
